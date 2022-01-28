@@ -1,2 +1,5 @@
-hello this is anew branch
-changed the email
+when we want to change the email in the bash 
+we can see the mail in the git log
+the command used is :
+$ git config --global user.email "grk.kiran2000@gmail.com"
+
